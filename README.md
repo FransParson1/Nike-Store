@@ -1,0 +1,1 @@
+Hey! This profile showcases projects and coursework from my MIS studies. Some repos might look partial—they focus directly on the specific deliverables needed to grasp key course concepts rather than full end-to-end applications.
